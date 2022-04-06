@@ -98,16 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Text("$s2 xato"),
             ),
           ),
-          // SizedBox(
-          //   height: MediaQuery.of(context).size.height * 0.08,
-          // ),
-          // FloatingActionButton(
-          //   onPressed: () {},
-          //   child: const Icon(
-          //     Icons.add,
-          //     color: Colors.yellow,
-          //   ),
-          // )
+          
         ],
       ),
     );

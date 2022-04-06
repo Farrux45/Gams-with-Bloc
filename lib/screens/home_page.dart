@@ -1,5 +1,4 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:example/core/constant/text_page.dart';
 import 'package:example/screens/home_page_yest.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

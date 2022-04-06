@@ -1,4 +1,4 @@
-#Wed Apr 06 06:43:30 UZT 2022
+#Wed Apr 06 21:25:12 UZT 2022
 base.0=/home/farrux/Flutter/ex-Bloc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

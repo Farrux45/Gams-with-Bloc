@@ -11,13 +11,13 @@ class MyApp extends StatelessWidget {
   
   @override
   Widget build(BuildContext context) {
+    final darkBlue = Color.fromARGB(255, 18, 32, 47);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-      theme: ThemeData(
-      primarySwatch: Colors.blue,
-      ),
-      home: const MyHomePage(),
+      theme: ThemeData.dark(),
+      home: const MyHomePage (),
+      
     );
   }
 }

@@ -8,6 +8,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "bloc",
+      "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-8.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
       "packageUri": "lib/",
@@ -62,8 +68,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_bloc",
+      "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-8.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_staggered_grid_view",
+      "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_staggered_grid_view-0.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -98,8 +116,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///home/farrux/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -170,7 +200,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-04-05T12:54:19.961928Z",
+  "generated": "2022-04-06T01:47:57.958542Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }

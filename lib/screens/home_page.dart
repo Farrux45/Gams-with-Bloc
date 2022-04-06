@@ -1,5 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:example/core/constant/text_page.dart';
+import 'package:example/screens/home_page_yest.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:text_scroll/text_scroll.dart';
@@ -98,7 +99,18 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Text("$s2 xato"),
             ),
           ),
-          
+          SizedBox(height: MediaQuery.of(context).size.height * 0.2,),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) => HomePageYest(),
+                ),
+              );
+            },
+            child: Text("NEXT GAME CLICK HERE"),
+          ),
         ],
       ),
     );
